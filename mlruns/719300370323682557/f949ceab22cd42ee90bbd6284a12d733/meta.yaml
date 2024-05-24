@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/719300370323682557/f949ceab22cd42ee90bbd6284a12d733/artifacts
+end_time: 1716593037193
+entry_point_name: ''
+experiment_id: '719300370323682557'
+lifecycle_stage: active
+run_id: f949ceab22cd42ee90bbd6284a12d733
+run_name: Ridge
+run_uuid: f949ceab22cd42ee90bbd6284a12d733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716593034666
+status: 3
+tags: []
+user_id: codespace
