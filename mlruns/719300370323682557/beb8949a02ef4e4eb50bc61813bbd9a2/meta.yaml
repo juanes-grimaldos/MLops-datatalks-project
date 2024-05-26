@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/719300370323682557/beb8949a02ef4e4eb50bc61813bbd9a2/artifacts
+end_time: 1716693518252
+entry_point_name: ''
+experiment_id: '719300370323682557'
+lifecycle_stage: active
+run_id: beb8949a02ef4e4eb50bc61813bbd9a2
+run_name: melodic-whale-836
+run_uuid: beb8949a02ef4e4eb50bc61813bbd9a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716693054461
+status: 3
+tags: []
+user_id: codespace
