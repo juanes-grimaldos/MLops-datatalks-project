@@ -162,3 +162,5 @@ cython_debug/
 
 ~.profile
 mlflow-env/
+.vscode/
+.db
